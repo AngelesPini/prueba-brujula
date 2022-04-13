@@ -1,0 +1,58 @@
+header {
+  background-color: #0BA2E3;
+  margin-bottom: 300px; }
+  header .title img {
+    max-width: 1440px;
+    margin-top: -300px;
+    margin-left: -50px; }
+  header .title h1 {
+    text-align: center;
+    font-size: 2em; }
+  header .title button {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0BA2E3;
+    color: #fff;
+    width: 300px;
+    height: 50px; }
+
+nav {
+  background-color: #fff; }
+
+main {
+  background-color: #0BA2E3;
+  margin-right: 0px; }
+  main section.first {
+    margin-right: 0px;
+    text-align: center;
+    height: 300px; }
+    main section.first .texto {
+      z-index: 3;
+      margin-top: -300px;
+      margin-right: 280px;
+      margin-left: 280px; }
+      main section.first .texto h2 {
+        font-size: 1.5em; }
+      main section.first .texto p {
+        font-size: 1.2em;
+        text-align: start; }
+    main section.first img {
+      width: 500px;
+      height: 500px; }
+    main section.first .photo1 {
+      margin-left: -1200px; }
+    main section.first .photo2 {
+      margin-left: 1000px;
+      margin-top: -600px; }
+  main section.second {
+    margin-top: 400px;
+    text-align: center;
+    color: #0BA2E3; }
+    main section.second .content {
+      background-color: #fff;
+      border-radius: 0px 260px 0px 260px;
+      height: 600px;
+      box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.25); }
+      main section.second .content .texto {
+        padding-top: 10rem; }
